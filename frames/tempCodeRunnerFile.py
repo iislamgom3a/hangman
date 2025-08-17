@@ -1,2 +1,0 @@
-        tk.Button(self, text="Sign In", command=lambda: master.show_frame("LoginFrame")).pack(pady=10)
-        tk.Button(self, text="Sign Up", command=lambda: master.show_frame("SignupFrame")).pack(pady=10)
